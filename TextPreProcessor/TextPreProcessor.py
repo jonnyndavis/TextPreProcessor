@@ -217,7 +217,7 @@ class TextPreProcessor():
                 Text with multiple whitespaces replaced with a single
                 whitespace.
         """
-        text_reduced = ' '.join(text.split('  '))
+        text_reduced = ' '.join(text.split())
         return text_reduced
 
 
