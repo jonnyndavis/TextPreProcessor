@@ -8,5 +8,6 @@ It can implement any of the following:
 - Punctuation removal
 - Number removal
 - Whitespace normalisation
+- Lowercase
 
 See examples.py for example implementations.
